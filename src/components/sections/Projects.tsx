@@ -3,7 +3,7 @@ import { ExternalLink, Github } from "lucide-react"
 const projects = [
     {
         title: "Bible Reader",
-        description: "Easily follow your daily Bible reading with Bible Reader, an app designed to help you stay on track with your reading goals and grow in faith.",
+        description: "Easily follow your daily Bible reading with Bible Reader, an app designed to help you stay on track with your reading goals and grow in faith. This project lets you create bible reading plans from pre built plans or by letting you define your custom ones. You can then manage your plans by following up with what you have to read on the given dates. It also has built in bible books reasing tracker which get marked when you follow up with your plans.",
         tags: ["Next.js", "Supabase", "TailwindCSS"],
         link: "https://bible-reader.com/",
         github: "https://github.com/Sukkoth/bible-reader",
@@ -12,7 +12,7 @@ const projects = [
     },
     {
         title: "Windows OS Portfolio",
-        description: "A fully functional personal portfolio featuring a Windows 11-style desktop interface with a taskbar, start menu, and draggable windows.",
+        description: "A fully functional personal portfolio featuring a Windows 11-style desktop interface with a taskbar, start menu, terminal,gallery, documents and other features.",
         tags: ["React", "TailwindCSS"],
         link: "https://gadisa.onrender.com",
         github: "https://github.com/Sukkoth/windows-portfolio/tree/Lazy",
@@ -21,7 +21,7 @@ const projects = [
     },
     {
         title: "SMS Gateway",
-        description: "A scalable sms gateway handling millions of traffic.",
+        description: "A scalable sms gateway handling millions of traffic each day by using microservices and distributed databases.",
         tags: ["Microservices", "TypeScript", "Express", "..."],
         link: "#",
         github: "#",
