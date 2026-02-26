@@ -30,18 +30,19 @@ export function About() {
 
                         <div className="space-y-6 text-base leading-relaxed text-[var(--text-secondary)]">
                             <p>
-                                I'm a full-stack developer with over 4 years of experience building reliable, 
-                                high-performance web applications and backend systems that scale.
+                                I'm passionate about creating software that makes a difference. Whether it's optimizing 
+                                a slow API or designing a new feature from scratch.
                             </p>
                             <p>
-                                My expertise spans <span className="text-[var(--text)] font-bold border-b-2 border-[var(--primary)]">TypeScript, Express, Next.js, and NestJS</span>. 
-                                I specialize in designing microservices architectures and managing complex queues with BullMQ and Redis.
+                                My approach combines technical depth with practical thinking. I don't just write code—I 
+                                think about how systems will evolve, how teams will maintain them, and how users will 
+                                experience them. This mindset has shaped my work across <span className="text-[var(--text)] font-bold border-b-2 border-[var(--primary)]">frontend interfaces, 
+                                backend services, and everything in between</span>.
                             </p>
                             <p>
-                                I've architected high-volume platforms working with robust databases like 
-                                <span className="text-[var(--text)] font-bold"> ScyllaDB</span> and 
-                                <span className="text-[var(--text)] font-bold"> CockroachDB</span>. 
-                                My focus is on writing clean, maintainable code that stands the test of time.
+                                When I'm not coding, I'm learning. The tech landscape moves fast, and I make it a point 
+                                to stay current—whether that's exploring new frameworks
+                                or exploring unique ideas.
                             </p>
                         </div>
                     </div>
