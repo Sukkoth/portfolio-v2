@@ -1,4 +1,4 @@
-import { ArrowRight, Github, Linkedin, Send } from "lucide-react"
+import { ArrowRight, Github, Linkedin, Send, Download } from "lucide-react"
 
 const SOCIAL_LINKS = [
     { Icon: Github, href: "https://github.com/sukkoth", label: "GitHub" },
@@ -48,8 +48,16 @@ export function Hero() {
                                 <div className="absolute inset-0 bg-[var(--primary-dark)] transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left" />
                             </a>
                             <a
+                                href="/CV.pdf"
+                                download
+                                className="group px-8 py-4 border-2 border-[var(--text)] hover:bg-[var(--text)] hover:text-[var(--bg)] transition-all flex items-center gap-2"
+                            >
+                                Download CV
+                                <Download size={18} className="group-hover:translate-y-1 transition-transform" />
+                            </a>
+                            <a
                                 href="#contact"
-                                className="px-8 py-4 border-2 border-[var(--text)] hover:bg-[var(--text)] hover:text-[var(--bg)] transition-all"
+                                className="px-8 py-4 border-2 border-[var(--border)] hover:border-[var(--primary)] hover:text-[var(--primary)] transition-all"
                             >
                                 Get in Touch
                             </a>
