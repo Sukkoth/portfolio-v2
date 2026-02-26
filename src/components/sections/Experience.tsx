@@ -9,6 +9,14 @@ const experience = [
         type: "work",
         description: "Developing robust full-stack solutions with modern technologies."
     },
+     {
+        company: "Ablaze Labs",
+        location: "Addis Ababa",
+        role: "Senior Frontend Developer",
+        period: "2022",
+        type: "work",
+        description: "Worked on various project as a senior frontend developer"
+    },
     {
         company: "Commercial Bank of Ethiopia",
         location: "Addis Ababa",
@@ -39,7 +47,7 @@ export function Experience() {
         <section id="experience" className="py-32 px-4 bg-[var(--surface)]">
             <div className="max-w-5xl mx-auto">
                 <div className="flex items-center gap-8 mb-16">
-                    <span className="text-6xl font-bold text-[var(--primary)]">04</span>
+                    <span className="text-6xl font-bold text-[var(--primary)]">03</span>
                     <h2 className="text-5xl md:text-6xl">
                         My <span className="italic">Journey</span>
                     </h2>
