@@ -31,9 +31,8 @@ export function Hero() {
                                 <span className="italic text-[var(--primary)]">Teklu</span>
                             </h1>
                             
-                            <p className="text-lg md:text-xl text-[var(--text-secondary)] max-w-2xl leading-relaxed animate-fade-in-up stagger-3">
-                                Architecting scalable systems and crafting exceptional user experiences. 
-                                Specialized in React, TypeScript, and high-performance backend infrastructure.
+                            <p className="text-lg md:text-md text-[var(--text-secondary)] max-w-3xl leading-relaxed animate-fade-in-up stagger-3">
+                                I am a full stack developer with over 4 years of experience. I work with TypeScript, Express, Next.js, and NestJS to build reliable web applications and backend systems. I also have strong experience working with microservices, queues (BullMQ with Redis), and databases like ScyllaDB and CockroachDB. I’ve built full systems —frontend dashboards, APIs, and microservices—for high-traffic and high-volume platforms. I write clean, well-structured code and focus on building things that work fast and scale well. I can work on both frontend and backend, and I’m used to handling real-world problems, from database design to system architecture.
                             </p>
                         </div>
 
