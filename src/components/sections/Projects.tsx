@@ -35,7 +35,7 @@ export function Projects() {
         <section id="projects" className="py-32 px-4 relative overflow-hidden">
             <div className="max-w-7xl mx-auto">
                 <div className="flex items-center gap-8 mb-16">
-                    <span className="text-6xl font-bold text-[var(--primary)]">03</span>
+                    <span className="text-6xl font-bold text-[var(--primary)]">04</span>
                     <h2 className="text-5xl md:text-6xl">
                         Featured <span className="italic">Work</span>
                     </h2>

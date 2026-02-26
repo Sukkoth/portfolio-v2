@@ -3,8 +3,8 @@ import { ThemeToggle } from "./ThemeToggle"
 const NAV_ITEMS = [
     { name: "About", href: "#about" },
     { name: "Tech", href: "#tech" },
-    { name: "Projects", href: "#projects" },
     { name: "Experience", href: "#experience" },
+    { name: "Projects", href: "#projects" },
     { name: "Contact", href: "#contact" }
 ] as const
 

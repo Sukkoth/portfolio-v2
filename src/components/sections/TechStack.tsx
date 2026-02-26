@@ -6,7 +6,7 @@ const skills = [
 
 export function TechStack() {
     return (
-        <section className="py-32 px-4 relative overflow-hidden">
+        <section id="tech" className="py-32 px-4 relative overflow-hidden">
             {/* Large decorative text */}
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-[20vw] font-bold text-[var(--border)] opacity-30 pointer-events-none whitespace-nowrap">
                 TECH STACK
