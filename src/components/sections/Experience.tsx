@@ -7,7 +7,7 @@ const experience = [
         role: "Fullstack Developer",
         period: "Aug 2022 - Present",
         type: "work",
-        description: "Developing robust full-stack solutions with modern technologies."
+        description: "Developing robust full-stack solutions with modern technologies. Improving API performance, handling lots of database data, designing and building microservices and scaling applications"
     },
      {
         company: "Ablaze Labs",
@@ -15,7 +15,7 @@ const experience = [
         role: "Senior Frontend Developer",
         period: "2022",
         type: "work",
-        description: "Worked on various project as a senior frontend developer"
+        description: "Worked on various project as a senior frontend developer by building nicely crafter UI's with added API integrations."
     },
     {
         company: "Commercial Bank of Ethiopia",
@@ -31,7 +31,7 @@ const experience = [
         role: "Fullstack Developer",
         period: "Sept - Dec 2022",
         type: "work",
-        description: "Fullstack development on key technology projects."
+        description: "Fullstack development on key technology projects. From e-commerce websites to landing pages and chat systems."
     },
     {
         school: "Adama Science and Technology University",
