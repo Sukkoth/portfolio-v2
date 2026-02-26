@@ -133,7 +133,7 @@ export function Contact() {
                             <div className="p-2 border border-[var(--border)] group-hover:border-[var(--primary)] transition-colors">
                                 <Mail size={16} />
                             </div>
-                            <span className="font-bold">hello@gadisa.dev</span>
+                            <span className="font-bold">suukootj@gmail.com</span>
                         </a>
                         <span className="text-xs tracking-[0.2em] uppercase text-[var(--text-secondary)]">
                             Addis Ababa, Ethiopia
