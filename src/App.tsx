@@ -6,6 +6,7 @@ import { Experience } from "./components/sections/Experience"
 import { TechStack } from "./components/sections/TechStack"
 import { Projects } from "./components/sections/Projects"
 import { Contact } from "./components/sections/Contact"
+import { Analytics } from "@vercel/analytics/next"
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Contact />
       </main>
       <Footer />
+      <Analytics/>
     </div>
   )
 }
