@@ -3,7 +3,7 @@ import { ExternalLink, Github } from "lucide-react"
 const projects = [
     {
         title: "Bible Reader",
-        description: "Easily follow your daily Bible reading with Bible Reader, an app designed to help you stay on track with your reading goals and grow in faith. This project lets you create bible reading plans from pre built plans or by letting you define your custom ones. You can then manage your plans by following up with what you have to read on the given dates. It also has built in bible books reasing tracker which get marked when you follow up with your plans.",
+        description: "Easily follow your daily Bible reading with Bible Reader, an app designed to help you stay on track with your reading goals and grow in faith. This project lets you create bible reading plans from pre built plans or by letting you define your custom ones. You can then manage your plans by following up with what you have to read on the given dates. It also has built in bible books reading tracker which get marked when you follow up with your plans.",
         tags: ["Next.js", "Supabase", "TailwindCSS"],
         link: "https://bible-reader.com/",
         github: "https://github.com/Sukkoth/bible-reader",
