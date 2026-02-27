@@ -5,7 +5,7 @@ const experience = [
         company: "2F Capital",
         location: "Addis Ababa",
         role: "Fullstack Developer",
-        period: "Aug 2022 - Present",
+        period: "Aug 2024 - Present",
         type: "work",
         description: "Developing robust full-stack solutions with modern technologies. Improving API performance, handling lots of database data, designing and building microservices and scaling applications"
     },
@@ -13,7 +13,7 @@ const experience = [
         company: "Ablaze Labs",
         location: "Addis Ababa",
         role: "Senior Frontend Developer",
-        period: "2022",
+        period: "2023 - 2024",
         type: "work",
         description: "Worked on various project as a senior frontend developer by building nicely crafter UI's with added API integrations."
     },
